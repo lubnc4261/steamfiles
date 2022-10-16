@@ -1,0 +1,6 @@
+nms_favela
+nms_flooded
+nms_isolated
+nms_northway
+nms_notld
+nms_ransack
